@@ -1,6 +1,6 @@
 ![Cover Image](./github_cover_new.png)
 ---
-<h1 align="center">Hi 👋, I'm Easir Arafat</h1>
+<h1 align="center">Hi, I'm Easir Arafat</h1>
 <h3 align="center">Full-Stack Developer | MERN | React Native | DevOps (AWS,AZURE)</h3>
 
 ---
@@ -16,9 +16,8 @@
 
 
 ### 🚀 Featured Projects
-- [🌐 Portfolio Website](https://your-portfolio-link.com) – Personal portfolio built with **Next.js + Tailwind CSS**.  
-- [🛒 E-commerce App](https://github.com/yourusername/ecommerce) – Full-stack **MERN e-commerce** with payment integration.  
-- [✍️ Blog Platform](https://github.com/yourusername/blog) – Blog app with **authentication + CRUD** features.  
+- [🌐 Portfolio Website](https://portfolio-two-opal-13.vercel.app/) – Personal portfolio built with **React.js + Tailwind CSS**.  
+
 
 ---
 
