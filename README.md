@@ -1,4 +1,4 @@
-![Cover Image](./github_cover.png)
+![Cover Image](./github_cover_new.png)
 ---
 <h1 align="center">Hi 👋, I'm Easir Arafat</h1>
 <h3 align="center">Full-Stack Developer | MERN | React Native | DevOps (AWS,AZURE)</h3>
