@@ -1,4 +1,4 @@
-![Cover Image](./freepik__the-style-is-candid-image-photography-with-natural__58313.png)
+![Cover Image](./github_cover.png)
 ---
 <h1 align="center">Hi 👋, I'm Easir Arafat</h1>
 <h3 align="center">Full-Stack Developer | MERN | React Native | DevOps (AWS,AZURE)</h3>
